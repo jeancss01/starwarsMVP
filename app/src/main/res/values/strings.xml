@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Star Wars</string>
+    <string name="label_toolbar_film_detail">Detail</string>
+
+    <string name="erro_conexao_indisponivel">Erro de Conexão, Verifique sua conexão!</string>
+    <string name="title">Alerta</string>
+    <string name="ok">OK</string>
+    <string name="content">Sem conexão com a internet!</string>
+    <string name="label_empty">-</string>
+    <string name="label_description">Description</string>
+    <string name="label_episode">Episode</string>
+    <string name="label_producer_s">Producer(s)</string>
+    <string name="label_director">Director</string>
+    <string name="label_release">Release</string>
+    <string name="label_no_connection">Obs! Verifique sua conexão.</string>
+    <string name="label_release_year">Release year:</string>
+</resources>
